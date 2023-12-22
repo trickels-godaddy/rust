@@ -1,2 +1,2 @@
 # rust
-adventures in rust
+Adventures in rust
