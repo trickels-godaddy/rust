@@ -1,2 +1,2 @@
 # rust
-***REMOVED***
+Adventures in Rust
